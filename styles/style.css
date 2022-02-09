@@ -74,7 +74,7 @@
   right: 0;
   z-index: 2;
 }
-/* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
+
 .header__square-pic {
   height: 568px;
   width: 568px;
@@ -82,14 +82,6 @@
   position: absolute;
   top: 64px;
   right: 0;
-}
-
-/* и элемента с модификатором вида ключ-значение */
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
 }
 
 .description {
@@ -278,6 +270,7 @@
 .table__cell_theme_dark {
   width: 200px;
   margin-top: 80px;
+  margin-right: 0;
   color: white;
 }
 
