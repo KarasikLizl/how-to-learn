@@ -275,16 +275,12 @@
   color: white;
 }
 
-.table__cell_theme_dark {
-  width: 200px;
-  margin-top: 80px;
-   color: white;
-}
-
 .table__text_theme_dark {
   color: white;
   margin-top: 20px;
   margin-bottom: 0;
+  width: 200px;
+  margin-top: 80px;
 }
 
 .kaufman__triangle {
