@@ -19,9 +19,6 @@
 }
 
 .logo {
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: contain;
   z-index: 1;
 }
 
@@ -54,7 +51,6 @@
   font-weight: normal;
   margin: 0;
   z-index: 3;
-
 }
 
 .header__link {
@@ -151,7 +147,6 @@
   font-weight: bold;
 }
 
-
 .section-subtitle {
   width: 60%;
   margin: 20px 0 0;
@@ -245,7 +240,6 @@
   z-index: -1;
 }
 
-
 .kaufman {
   display: flex;
   flex-direction: column;
@@ -301,7 +295,6 @@
   justify-content: space-between;
   width: 90%;
   margin: 60px auto 40px;
-
 }
 
 .footer__column {
@@ -363,8 +356,3 @@
   height: 16px;
   margin-right: 10px;
 }
-
-
-
-
-
