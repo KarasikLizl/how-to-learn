@@ -1,0 +1,10 @@
+.resourses__logo-link {
+  text-decoration: none;
+  opacity: 1;
+  transition: opacity 1s;
+  margin: 0;
+}
+
+.resourses__logo-link:hover {
+  opacity: 0.6;
+}
